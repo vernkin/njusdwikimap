@@ -18,7 +18,7 @@ Use one or more blank lines to separate paragraphs.
 || _italic_ || {{{_italic_}}}  ||
 || *bold* || {{{*bold*}}}  ||
 || `code` || {{{`code`}}}  ||
-|| {{{code}}} || {{{{{{code}}}}}} ||  
+|| {{{code}}} || {{{ {{{code}}} }}} ||  
 || ^super^script || {{{^super^script}}} || 
 || ,,sub,,script || {{{,,sub,,script}}}  ||
 || ~~strikeout~~ || {{{~~strikeout~~}}}  ||
