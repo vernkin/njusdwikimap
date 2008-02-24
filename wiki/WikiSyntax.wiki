@@ -71,3 +71,39 @@ Which results in:
   ==== Level 4 ====
   ===== Level 5 =====
   ====== Level 6 ======
+
+
+== Dividers ==
+Four or more dashes on a line by themselves results in a horizontal rule.
+
+
+== Lists ==
+Google Code wikis support both bulleted and numbered lists. A list must be indented at least one space to be recognized as such. You can also nest lists one within the other by appropriate use of indenting: 
+
+{{{
+  The following is:  
+    * A list  
+    * Of bulleted items    
+       # This is a numbered sublist    
+       # Which is done by indenting further  
+    * And back to the main bulleted list 
+   * This is also a list 
+   * With a single leading space 
+   * Notice that it is rendered  
+       # At the same levels  
+       # As the above lists. 
+    * Despite the different indentation levels.
+}}}
+
+The following is: 
+    * A list  
+    * Of bulleted items    
+       # This is a numbered sublist    
+       # Which is done by indenting further  
+    * And back to the main bulleted list 
+   * This is also a list 
+   * With a single leading space 
+   * Notice that it is rendered  
+       # At the same levels  
+       # As the above lists. 
+    * Despite the different indentation levels.
