@@ -1,0 +1,10 @@
+#summary Wiki句法帮助
+#labels Featured,Phase-Requirements
+
+由于Google在本页面编辑Wiki不提供可视化工作
+
+= 参考网站 =
+http://developer.mozilla.org/cn/docs/MDC:Wiki_Markup_Reference
+http://code.google.com/p/support/wiki/WikiSyntax
+
+= 部分常用示例 =
