@@ -18,7 +18,15 @@ Use one or more blank lines to separate paragraphs.
 || _italic_ || {{{_italic_}}}  ||
 || *bold* || {{{*bold*}}}  ||
 || `code` || {{{`code`}}}  ||
-|| {{{code}}} || {{{ {{{code}}} }}} ||  
+|| {{{code}}} || {{{{{{code}}}}}} ||  
 || ^super^script || {{{^super^script}}} || 
 || ,,sub,,script || {{{,,sub,,script}}}  ||
 || ~~strikeout~~ || {{{~~strikeout~~}}}  ||
+
+You can mix these typefaces in some ways: 
+
+|| *Markup* || *Result* ||  
+|| {{{_*bold* in italics_}}} || _*bold* in italics_ ||  
+|| {{{*_italics_ in bold*}}} || *_italics_ in bold* ||
+|| {{{*~~strike~~ works too*}}} || *~~strike~~ works too* ||  
+|| {{{~~as well as _this_ way round~~}}}  || ~~as well as _this_ way round~~ ||
