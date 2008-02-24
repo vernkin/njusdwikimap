@@ -1,14 +1,8 @@
-#summary One-sentence summary of this page.
-
 = Introduction =
 
 目前找到的在线wiki map网站(欢迎不断补充):
-http://www.mapwiki.cn/
 
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+http://www.mapwiki.cn/
