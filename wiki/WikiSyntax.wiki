@@ -106,4 +106,43 @@ The following is:
    * Notice that it is rendered  
        # At the same levels  
        # As the above lists. 
-    * Despite the different indentation levels.
+   * Despite the different indentation levels.
+
+== Quoting ==
+Block quotes place emphasis on a particular extract of text in your page. Block quotes are created by indenting a paragraph by at least one space: 
+
+{{{
+   Someone once said: 
+     This sentence will be quoted in the future as the canonical example 
+     of a quote that is so important that it should be visually separate
+     from the rest of the text in which it appears.
+}}}
+
+   Someone once said: 
+     This sentence will be quoted in the future as the canonical example 
+     of a quote that is so important that it should be visually separate
+     from the rest of the text in which it appears.
+
+
+== Links ==
+Links are central to the wiki principle, as they create the web of content. Google Code wiki permits both internal (within the wiki) and external links, and in some cases automatically creates a link when it recognizes either a WikiWord or an URL. 
+
+
+== Internal wiki links ==
+Internal links within a wiki are created using the syntax below. If you add a wiki link to a page that does not exist, the link will appear with a LittleLink? to all project members and owners. Clicking that link will take you to the page creation form where you can enter content for that page. 
+
+If you are not logged in, wiki links that point to non-existent pages will appear as plain text, without the link to the page creation form. When you create the target page as a project member or owner, the link will switch to being an actual hyperlink for all viewers of the page. 
+
+{{{
+  WikiSyntax is identified and linked automaticallyWikipage is not identified, so if you 
+  have a page named [Wikipage] youneed to link it explicitly.If the WikiSyntax page is
+  actually about reindeers, you can provide adescription, so that people know you're
+  actually linking to a page on[WikiSyntax reindeer flotillas].If you want to mention!
+  WikiSyntax without it being autolinked, use anexclamation mark to prevent linking.
+}}}
+
+WikiSyntax is identified and linked automaticallyWikipage is not identified, so if you 
+have a page named [Wikipage] youneed to link it explicitly.If the WikiSyntax page is
+actually about reindeers, you can provide adescription, so that people know you're
+actually linking to a page on[WikiSyntax reindeer flotillas].If you want to mention!
+WikiSyntax without it being autolinked, use anexclamation mark to prevent linking.
