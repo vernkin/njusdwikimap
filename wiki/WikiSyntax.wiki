@@ -142,7 +142,40 @@ If you are not logged in, wiki links that point to non-existent pages will appea
 }}}
 
 WikiSyntax is identified and linked automaticallyWikipage is not identified, so if you 
+
 have a page named [Wikipage] youneed to link it explicitly.If the WikiSyntax page is
+
 actually about reindeers, you can provide adescription, so that people know you're
+
 actually linking to a page on[WikiSyntax reindeer flotillas].If you want to mention!
+
 WikiSyntax without it being autolinked, use anexclamation mark to prevent linking.
+
+
+== Links to external pages ==
+You can of course link to external pages from your own wiki pages, using a syntax similar to that for internal links: 
+
+{{{
+  Plain URLs such as http://www.google.com/ or ftp://ftp.kernel.org/ areautomatically
+  made into links.You can also provide some descriptive text. For example, the
+  followinglink points to the [http://www.google.com Google home page].If your link
+  points to an image, it will get inserted as an image taginto the
+  page:http://code.google.com/images/code_sm.pngYou can also make the image into a link,
+  by setting the image URL asthe description of the URL you want to link:
+  [http://code.google.com/ http://code.google.com/images/code_sm.png]
+}}}
+
+Plain URLs such as http://www.google.com/ or ftp://ftp.kernel.org/ areautomatically
+
+made into links.You can also provide some descriptive text. For example, the
+
+followinglink points to the [http://www.google.com Google home page].If your link
+
+points to an image, it will get inserted as an image taginto the
+
+page:http://code.google.com/images/code_sm.pngYou can also make the image into a link,
+
+by setting the image URL asthe description of the URL you want to link:
+
+[http://code.google.com/ http://code.google.com/images/code_sm.png]
+
