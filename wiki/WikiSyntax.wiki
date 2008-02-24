@@ -14,18 +14,11 @@ http://code.google.com/p/support/wiki/WikiSyntax
 Use one or more blank lines to separate paragraphs. 
 
 == Typeface ==
-Name/Sample Markup  
-
-italic     _italic_  
-
-bold        *bold*  
-
-code       `code`  
-
-code       {{{code}}}  
-
-superscript  ^super^script  
-
-subscript  ,,sub,,script  
-
-strikeout  ~~strikeout~~  
+||Name/Sample ||Markup||  
+||italic || _italic_  ||
+||bold || *bold*  ||
+||code || `code`  ||
+||code || {{{code}}}||  
+||superscript || ^super^script || 
+||subscript || ,,sub,,script  ||
+||strikeout || ~~strikeout~~  ||
