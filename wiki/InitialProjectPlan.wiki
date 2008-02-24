@@ -1,9 +1,8 @@
-#summary 第一期的初步的项目计划
+#summary 毕业设计初步的项目计划
 #labels Featured,Phase-Design
 = Introduction =
 
-Add your content here.
-
+主要包括项目的初步进步安排和相关人员在第一个阶段的分工
 
 = Details =
 
