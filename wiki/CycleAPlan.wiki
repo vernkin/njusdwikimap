@@ -1,5 +1,5 @@
 #summary Cycle A 的计划，任务安排和进度追踪
-#labels Featured,Cycle-A
+#labels Featured,Cycle-A,CycleA
 = 计划说明 =
 因为第一阶段有一个组员生病，两个组员目前比较忙。所以第一阶段安排的任务比较轻。主要包括作者去了解wiki map相关的资料以及整理学习总结。
 *Cycle A 时间为2.21 -- 3.31 *
