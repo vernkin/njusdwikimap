@@ -1,5 +1,5 @@
 #summary Wiki语法帮助
-#labels Featured,Reference,Cycle-A
+#labels Featured,Reference
 
 由于Google在本页面编辑Wiki不提供可视化编辑
 
