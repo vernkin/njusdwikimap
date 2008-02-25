@@ -1,5 +1,5 @@
 #summary Cycle A 的计划，任务安排和进度追踪
-#labels Featured,CycleA
+#labels Featured,Cycle-A
 = Introduction =
 
 Add your content here.
