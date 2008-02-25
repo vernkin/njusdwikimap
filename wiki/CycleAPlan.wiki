@@ -1,6 +1,5 @@
-#summary One-sentence summary of this page.
+#summary Cycle A 的计划，任务安排和进度追踪
 #labels Featured,CycleA
-
 = Introduction =
 
 Add your content here.
