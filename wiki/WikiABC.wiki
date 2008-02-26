@@ -12,4 +12,5 @@ Like many simple concepts, "open editing" has some profound and subtle effects o
 
 
 == 给大家一个参考网站，学习一下wiki技术 ==
+天下维客
 http://www.allwiki.com/wiki/%E9%A6%96%E9%A1%B5
