@@ -7,3 +7,5 @@
 = Details =
 
 http://www.mapwiki.cn/
+
+http://www.eemap.org/
