@@ -11,5 +11,5 @@ Wiki is unusual among group communication mechanisms in that it allows the organ
 Like many simple concepts, "open editing" has some profound and subtle effects on Wiki usage. Allowing everyday users to create and edit any page in a Web site is exciting in that it encourages democratic use of the Web and promotes content composition by nontechnical users.
 
 
-给大家一个参考网站，学习一下wiki技术
+== 给大家一个参考网站，学习一下wiki技术 ==
 http://www.allwiki.com/wiki/%E9%A6%96%E9%A1%B5
