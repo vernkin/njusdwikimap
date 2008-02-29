@@ -17,5 +17,5 @@
  # 在 http://www.eemap.org/ 注册帐户
  # 熟悉并使用wiki标签
  # 使用eemap的各种基本功能
- # 了解wiki和wiki map的发展历史(可选)
+ # 了解wiki和wiki map的发展历史(尽量完成)
  # 将以上的学习心得以wiki形式写出来，并尽量用到[WikiSyntax wiki语法]里的语法.wiki的名称以PhaseAFeed开头，并都加上label PhaseA
