@@ -9,8 +9,13 @@
 
 ||   时间段   ||  负责人  ||  状态  ||  任务描述  ||  任务要求  ||  完成描述  ||
 || 2.21-2.28 || 全体成员 || 进行中 || 了解使用Google Code系统 || 熟悉wiki语法，Code系统的wiki编辑(Wiki)，文件的上载下传(Downloads)，代码管理工具svn的使用(Source)，问题的发布和状态追踪(Issues) || _N/A_ ||
-|| 2.29 - 3.6 || 全体成员 || _N/A_ || 熟悉使用wiki || 每人发表写一篇关于wiki的学习心得wiki,具体要求[wiki学习心得 向下] || _N/A_ ||
+|| 2.29 - 3.6 || 全体成员 || _N/A_ || 熟悉使用wiki || 每人发表写一篇关于wiki的学习心得wiki,具体要求向下 || _N/A_ ||
 
 
 
-[wiki学习心得]要求:
+== wiki学习心得要求 ==
+ # 在 http://www.eemap.org/ 注册帐户
+ # 熟悉并使用wiki标签
+ # 使用eemap的各种基本功能
+ # 了解wiki和wiki map的发展历史(可选)
+ # 将以上的学习心得以wiki形式写出来，并尽量用到[WikiSyntax wiki语法]里的语法.wiki的名称以PhaseAFeed开头，并都加上label PhaseA
