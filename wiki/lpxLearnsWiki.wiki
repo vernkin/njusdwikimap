@@ -1,4 +1,5 @@
 #summary lpx学习心得（wiki）
+#labels PhaseA
 = wiki是什么 =
 
 简而言之，wiki就是“大家协作撰写同一（批）网页上的文章”。在wiki网站上，访问者可以修改、完善已经存在的页面，或者创建新内容。通过wiki协作，wiki网站可以不断完善、发展，成为优秀的网站，例如维基百科（zh.wikipedia.org）、天下维客（www.allwiki.com）等。 
@@ -49,5 +50,3 @@ Confluence：基于J2EE的商业wiki程序
 TWiki：基于Perl的开源wiki程序 
 JotSpot：2006年10月，JotSpot公司已经被Google收购 
 MoinMoin：权限管理较为完善，Python环境 
-
-
