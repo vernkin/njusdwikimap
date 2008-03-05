@@ -4,7 +4,11 @@
 
 使用eemap，总体感觉一般，在这里从技术的角度谈谈这个网站。
 
-网站内容的最基本单元是标签，标签可以进行分类(类似图书馆里图书的分类)，主题地图实际上也是若干标签的集合。在“地点列表”项里面的有基于地理位置的标签分类。“分享者”列出最活跃和最近登陆的用户，
+网站内容的最基本单元是标签，标签可以进行分类(类似图书馆里图书的分类)，主题地图实际上也是若干标签的集合；在“地点列表”项里面的有基于地理位置的标签分类；“分享者”列出最活跃和最近登陆的用户；“我的地图”里自己收藏/创建的标签进行管理。
+
+除了标签以外，另外的底层主角就是地图了。看了地图的底边，地图使用了Google Map,右下角的[http://www.google.com/intl/en_ALL/help/terms_maps.html “Tearms Of Use”]指向了“Google Maps Help”。
+
+顺便提到的，google对很多产品都提供了api，除了Google Map以外，还有[http://www.google.com/codesearch codesearch]（搜索代码，推荐使用！！），Calendar,Docs(在线的word/excel文档编辑)，等等。Google Datas API (gdada)的[http://code.google.com/apis/gdata/ 主页]
 
 
 = Details =
