@@ -2,7 +2,12 @@
 
 == 简述 ==
  * 使用语言: Java
- * Web框架: zk (一个基于Ajax的轻量级组件框架,用Java实现),官方主页 www.zkoss.org 
+ * 使用框架:
+   # 表示层: zk (一个基于Ajax的轻量级组件框架,用Java实现),官方主页 www.zkoss.org
+   # 业务层: Spring (http://www.springframework.org)
+   # 持久层: Hibernate v3 (http://www.hibernate.org)
+ * 开发平台:
+   # 
  * 项目分工: (见下表格)
 
 
