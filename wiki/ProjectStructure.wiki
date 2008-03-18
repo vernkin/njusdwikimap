@@ -10,9 +10,9 @@
     # Map: Google Earth(gdata http://code.google.com/apis/gdata/)
     # 索引(可选):lucene (http://lucene.apache.org/)
  * 开发平台:
-    # 开发IDE: Eclipse 3.3.1
-    # Web 容器: Tomcat 5.5
-    # 数据库: MySQL 5.0
+    # 开发IDE: Eclipse 3.3.1 [http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/europa/winter/eclipse-jee-europa-winter-win32.zip 下载页面]
+    # Web 容器: Tomcat 5.5 [http://apache.mirror.phpchina.com/tomcat/tomcat-5/v5.5.26/bin/apache-tomcat-5.5.26.exe 下载]
+    # 数据库: MySQL 5.0 [http://dev.mysql.com/downloads/mysql/5.0.html 下载页面]
 
 == 项目分工 ==
   第一期基本模仿eemap完成wiki功能地图。
