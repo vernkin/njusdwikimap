@@ -1,19 +1,26 @@
+#labels Featured,Phase-Design
 = 项目框架 =
 
-== 简述 ==
+== 项目环境 ==
  * 使用语言: Java
  * 使用框架:
     # 表示层: zk (一个基于Ajax的轻量级组件框架,用Java实现),官方主页 www.zkoss.org
     # 业务层: Spring (http://www.springframework.org)
     # 持久层: Hibernate v3 (http://www.hibernate.org)
+    # Map: Google Earth(gdata http://code.google.com/apis/gdata/)
+    # 索引(可选):lucene (http://lucene.apache.org/)
  * 开发平台:
     # 开发IDE: Eclipse 3.3.1
     # Web 容器: Tomcat 5.5
     # 数据库: MySQL 5.0
- * 项目分工: (见下表格)
+
+== 项目分工 ==
+  第一期基本模仿eemap完成wiki功能地图。
+|| 成员 || 任务 || 需要知识 ||
+|| 陈则润 || 地图，项目设计 || zk,gdata ||
+|| 甘崇志 || 页面,wiki模式的实现 || zk,wiki ||
+|| 杨济荣 || 底层设计(便签的持久化),业务层bean || Spring,Hibernare ||
+|| 刘鹏翔 || 标签搜索，并协助杨济荣 || Spring,Hibernare,Lucene(视情况) ||
 
 
-
-= Details =
-
- 安排：应浩然姐姐要求，这周的项目阶段报告需要出台一个项目的大体框架，用什么语言实现，用什么平台开发等，以及要给出每个人在项目组中的分工。例如：模仿www.eemap.org的wiki地图功能，项目分工可一人做地图，一人实现wiki的地图标签，一人做标签搜索等。 
+以上任务为初步分配，如有异议可以提出
